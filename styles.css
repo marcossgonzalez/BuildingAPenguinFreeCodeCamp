@@ -168,3 +168,16 @@ body{
     top: 65%;
     left: 42%;
 }
+.shirt{
+    font-size: 25px;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    top: 165px;
+    left: 127.5px;
+    z-index: 1;
+}
+.shirt div{
+    font-weight: normal;
+    top: 22.5px;
+    left: 12px;
+}
